@@ -1,5 +1,5 @@
 ' # PURPOSE: LOOP through the folder full of folders and copy an active sheet.
-' 3 DISCLAIMER: This is a quick and dirty VBA, no proper abstraction mechanisms applied ! 
+' # DISCLAIMER: This is a quick and dirty VBA, no proper abstraction mechanisms applied and the need to paste that in Excel is obvious
 '
 
 Sub sheetReplicator()
